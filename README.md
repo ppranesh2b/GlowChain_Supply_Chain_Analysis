@@ -146,7 +146,7 @@ The dashboard highlights the following executive metrics:
 | Total Revenue | ₹5,77,604.82 |
 | Overall Profit Margin | 90.84% |
 | Critical Stock Items | 16 |
-| Average Total Lead Time | 30.73 days |
+| Average Total Lead Time | 30 days |
 | Average Defect Rate | 2.28% |
 | Slow Supplier Products | 25 |
 
